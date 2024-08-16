@@ -1,0 +1,13 @@
+/* Add to App.css or another CSS file */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.App {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+button {
+    cursor: pointer;
+}
